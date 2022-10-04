@@ -1,2 +1,2 @@
 # Rocket
-Un mini jeu sur 2D fait avec Lua
+Un mini jeu  2D fait avec Lua
